@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherWise</string>
+    <string-array name="preloaded_fonts">
+        <item>poppins_thin</item>
+        <item>poppins_bold</item>
+
+    </string-array>
+</resources>
